@@ -72,12 +72,6 @@ Estou focado principalmente em:
 ---
 ## 🚀 Projetos
 
-Em constante desenvolvimento. Aqui estarão meus futuros projetos,
-incluindo aplicações em Java, sistemas e projetos Back-End.
-
----
-## 🌐 Sites — Front-End
-
 Projeto de desenvolvimento Front-End criado com **HTML, CSS e JavaScript**.
 Davi (Site)
 🔗 **[Ver código](https://github.com/davicesarsantos/html-css-aula)**  
