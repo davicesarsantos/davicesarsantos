@@ -73,14 +73,15 @@ Estou focado principalmente em:
 
 ## 🌐 Sites — Front-End
 
-### 💻 Meu primeiro site
-
 Projeto de desenvolvimento Front-End criado com **HTML, CSS e JavaScript**.
 
 🔗 **[Ver código](https://github.com/davicesarsantos/html-css-aula)**  
 🌐 **[Ver site](https://davicesarsantos.github.io/html-css-aula/)**
 
 ---
+Projeto de desenvolvimento Front-End criado com **HTML, CSS e JavaScript**.
+🔗 **[Ver código](https://github.com/davicesarsantos/html-css-aula)**  
+🌐 **[Ver site](https://davicesarsantos.github.io/cza-investments/)**
 
 ## 🚀 Projetos
 
