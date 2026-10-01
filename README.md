@@ -10,7 +10,7 @@ Atualmente, meu principal foco é **Java**, estudando lógica de programação, 
 
 ## 📚 Atualmente estudando
 
-🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -56,11 +56,9 @@ Atualmente, meu principal foco é **Java**, estudando lógica de programação, 
 <br/>
 <br/>
 
-<div align="left">
+### ☕ Foco principal
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-</div>
 
 Estou focado principalmente em:
 
@@ -68,18 +66,26 @@ Estou focado principalmente em:
 * 🧠 Lógica de programação
 * 🔢 Algoritmos
 * 🏗️ Programação Orientada a Objetos
+* 🌐 Desenvolvimento Front-End
 * 📂 Desenvolvimento de projetos
+
+---
+
+## 🌐 Sites — Front-End
+
+Atualmente desenvolvendo projetos de **Front-End** para praticar HTML, CSS e JavaScript, criando interfaces, layouts, animações e experiências interativas.
+
+> 💡 Esta seção será atualizada conforme novos sites forem desenvolvidos.
 
 ---
 
 ## 🚀 Projetos
 
-### 🌐 Meu primeiro site
+Em constante desenvolvimento. Aqui estarão meus futuros projetos,
+incluindo aplicações em Java, sistemas e projetos de desenvolvimento
+Back-End.
 
-Meu primeiro projeto de desenvolvimento web, criado para praticar **HTML, CSS e JavaScript**, explorando layouts, animações, interações e navegação entre páginas.
-
-🔗 **[Ver código](https://github.com/davicesarsantos/html-css-aula)**  
-🌐 **[Ver site](https://davicesarsantos.github.io/html-css-aula/)**
+> 💡 Novos projetos serão adicionados conforme minha evolução nos estudos.
 
 ---
 
