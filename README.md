@@ -6,17 +6,6 @@ Tenho **21 anos** e estou iniciando minha jornada na programação, buscando evo
 
 Atualmente, meu principal foco é **Java**, estudando lógica de programação, algoritmos e desenvolvimento de aplicações.
 
----
-
-## 🚀 Sobre mim
-
-* 👨‍💻 Meu nome é **Davi dos Santos**
-* 🎂 21 anos
-* ☕ Atualmente estudando **Java**
-* 📚 Sempre buscando aprender e evoluir na programação
-* 💡 Gosto de transformar ideias em projetos
-* 🎯 Meu objetivo é me tornar um **programador profissional**
-* 💼 Busco uma oportunidade para **trabalhar na área de tecnologia**
 
 ---
 
