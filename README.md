@@ -60,69 +60,43 @@ Atualmente, meu principal foco é **Java**, estudando lógica de programação, 
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-Estou focado principalmente em:
-
-* ☕ Java
-* 🧠 Lógica de programação
-* 🔢 Algoritmos
-* 🏗️ Programação Orientada a Objetos
-* 🌐 Desenvolvimento Front-End
-* 📂 Desenvolvimento de projetos
-
----
 ## 🚀 Projetos
-
-Projeto de desenvolvimento Front-End criado com **HTML, CSS e JavaScript**.
-Davi (Site)
-🔗 **[Ver código](https://github.com/davicesarsantos/html-css-aula)**  
-🌐 **[Ver site](https://davicesarsantos.github.io/html-css-aula/)**
-
----
-Projeto de desenvolvimento Front-End criado com **HTML, CSS e JavaScript**.
-(CZR)
-🔗 **[Ver código](https://github.com/davicesarsantos/cza-investments)**  
-🌐 **[Ver site](https://davicesarsantos.github.io/cza-investments/)**
-
----
-
-## 🎯 Meus objetivos
-
-### Curto prazo
-
-📖 Aprofundar meus conhecimentos em Java e desenvolver cada vez mais projetos.
-
-### Médio prazo
-
-🚀 Construir um portfólio sólido e começar a trabalhar profissionalmente com programação.
-
-### Longo prazo
-
-💻 Me tornar um **desenvolvedor completo**, trabalhando na área e continuando minha evolução profissional.
-
----
-
-## 📈 Minha jornada
-
-> "Todo programador começou escrevendo seu primeiro código."
-
-Estou no início da minha jornada, mas cada projeto, erro e linha de código fazem parte da evolução.
-
-🚀 **Aprender → Praticar → Criar → Evoluir**
-
----
-
-## 🌐 Onde me encontrar
-
-📸 **Instagram:** [@Santos.pNGG](https://instagram.com/Santos.pNGG)
-
-💻 **GitHub:** [Davi dos Santos](https://github.com/davicesarsantos)
-
----
 
 <div align="center">
 
-### 🚀 Em constante evolução.
+### 💰 CZR INVESTIMENTOS
 
-**Obrigado por visitar meu perfil!**
+Site de investimentos desenvolvido com **HTML, CSS e JavaScript**.
+
+<a href="https://davicesarsantos.github.io/cza-investments/">
+  <img src="https://img.shields.io/badge/🌐%20Ver%20Site-8B5CF6?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/davicesarsantos/cza-investments">
+  <img src="https://img.shields.io/badge/💻%20Código-1F2937?style=for-the-badge" />
+</a>
+
+---
+
+### 🌐 Davi — Site Front-End
+
+Projeto desenvolvido para praticar **HTML, CSS e JavaScript**.
+
+<a href="https://davicesarsantos.github.io/html-css-aula/">
+  <img src="https://img.shields.io/badge/🌐%20Ver%20Site-8B5CF6?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/davicesarsantos/html-css-aula">
+  <img src="https://img.shields.io/badge/💻%20Código-1F2937?style=for-the-badge" />
+</a>
 
 </div>
+
+---
+
+### 📚 Próximos projetos
+
+🔹 Projetos em **Java**  
+🔹 Aplicações **Back-End**  
+🔹 Sistemas e aplicações web  
+🔹 Projetos para praticar **Programação Orientada a Objetos**
