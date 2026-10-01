@@ -80,7 +80,7 @@ Projeto de desenvolvimento Front-End criado com **HTML, CSS e JavaScript**.
 
 ---
 Projeto de desenvolvimento Front-End criado com **HTML, CSS e JavaScript**.
-🔗 **[Ver código](https://github.com/davicesarsantos/html-css-aula)**  
+🔗 **[Ver código](https://github.com/davicesarsantos/cza-investments)**  
 🌐 **[Ver site](https://davicesarsantos.github.io/cza-investments/)**
 
 ## 🚀 Projetos
