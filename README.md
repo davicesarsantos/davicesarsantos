@@ -79,13 +79,13 @@ incluindo aplicações em Java, sistemas e projetos Back-End.
 ## 🌐 Sites — Front-End
 
 Projeto de desenvolvimento Front-End criado com **HTML, CSS e JavaScript**.
-
+Davi (Site)
 🔗 **[Ver código](https://github.com/davicesarsantos/html-css-aula)**  
 🌐 **[Ver site](https://davicesarsantos.github.io/html-css-aula/)**
 
 ---
 Projeto de desenvolvimento Front-End criado com **HTML, CSS e JavaScript**.
-
+(CZR)
 🔗 **[Ver código](https://github.com/davicesarsantos/cza-investments)**  
 🌐 **[Ver site](https://davicesarsantos.github.io/cza-investments/)**
 
