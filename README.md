@@ -73,19 +73,19 @@ Estou focado principalmente em:
 
 ## 🌐 Sites — Front-End
 
-Atualmente desenvolvendo projetos de **Front-End** para praticar HTML, CSS e JavaScript, criando interfaces, layouts, animações e experiências interativas.
+### 💻 Meu primeiro site
 
-> 💡 Esta seção será atualizada conforme novos sites forem desenvolvidos.
+Projeto de desenvolvimento Front-End criado com **HTML, CSS e JavaScript**.
+
+🔗 **[Ver código](https://github.com/davicesarsantos/html-css-aula)**  
+🌐 **[Ver site](https://davicesarsantos.github.io/html-css-aula/)**
 
 ---
 
 ## 🚀 Projetos
 
 Em constante desenvolvimento. Aqui estarão meus futuros projetos,
-incluindo aplicações em Java, sistemas e projetos de desenvolvimento
-Back-End.
-
-> 💡 Novos projetos serão adicionados conforme minha evolução nos estudos.
+incluindo aplicações em Java, sistemas e projetos Back-End.
 
 ---
 
