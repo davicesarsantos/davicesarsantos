@@ -1,4 +1,4 @@
- # Davi Cesar
+# Davi Cesar
 
 💻 **Futuro Desenvolvedor | Estudando Java**
 
@@ -6,12 +6,11 @@ Tenho **21 anos** e estou iniciando minha jornada na programação, buscando evo
 
 Atualmente, meu principal foco é **Java**, estudando lógica de programação, algoritmos e desenvolvimento de aplicações.
 
-
 ---
 
 ## 📚 Atualmente estudando
 
- 🤖 Linguagens e Tecnologias
+🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -57,7 +56,6 @@ Atualmente, meu principal foco é **Java**, estudando lógica de programação, 
 <br/>
 <br/>
 
-
 <div align="left">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -71,6 +69,17 @@ Estou focado principalmente em:
 * 🔢 Algoritmos
 * 🏗️ Programação Orientada a Objetos
 * 📂 Desenvolvimento de projetos
+
+---
+
+## 🚀 Projetos
+
+### 🌐 Meu primeiro site
+
+Meu primeiro projeto de desenvolvimento web, criado para praticar **HTML, CSS e JavaScript**, explorando layouts, animações, interações e navegação entre páginas.
+
+🔗 **[Ver código](https://github.com/davicesarsantos/html-css-aula)**  
+🌐 **[Ver site](https://davicesarsantos.github.io/html-css-aula/)**
 
 ---
 
@@ -104,7 +113,7 @@ Estou no início da minha jornada, mas cada projeto, erro e linha de código faz
 
 📸 **Instagram:** [@Santos.pNGG](https://instagram.com/Santos.pNGG)
 
-💻 **GitHub:** [Davi dos Santos](https://github.com/)
+💻 **GitHub:** [Davi dos Santos](https://github.com/davicesarsantos)
 
 ---
 
