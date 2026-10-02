@@ -60,7 +60,7 @@ Atualmente, meu principal foco é **Java**, estudando lógica de programação, 
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-## 🚀 Projetos
+## 🚀 Projetos Front-End
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Site de investimentos desenvolvido com **HTML, CSS e JavaScript**.
 
 ---
 
-### 🌐 Davi — Site Front-End
+### 🌐 Davi
 
 Projeto desenvolvido para praticar **HTML, CSS e JavaScript**.
 
