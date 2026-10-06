@@ -92,11 +92,11 @@ Aplicação web de sorteio aleatório desenvolvida com **HTML, CSS e JavaScript*
 
 Projeto de uma loja de roupas desenvolvido para praticar **Front-End e desenvolvimento Web**.
 
-<a href="https://davicesarsantos.github.io/V-FASHION/">
+<a href="https://davicesarsantos.github.io/^vfash/">
   <img src="https://img.shields.io/badge/🌐%20Ver%20Site-8B5CF6?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/davicesarsantos/V-FASHION">
+<a href="https://github.com/davicesarsantos/vfash">
   <img src="https://img.shields.io/badge/💻%20Código-1F2937?style=for-the-badge" />
 </a>
 
